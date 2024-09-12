@@ -1,0 +1,3 @@
+[submodule "ThirdParty/drivers/STM32F4"]
+	path = ThirdParty/drivers/STM32F4
+	url = https://github.com/STMicroelectronics/stm32f4xx_hal_driver
